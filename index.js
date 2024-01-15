@@ -44,3 +44,5 @@ app.use('/api/users', userRoutes)
 app.listen(process.env.PORT, () => {
 	console.log("LISTEN ACTIVADO");
 });
+
+// Prueba
